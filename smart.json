@@ -1,0 +1,11 @@
+{
+  "name": "angular-leaflet",
+  "description": "Use Leaflet with Angular.",
+  "homepage": "http://github.com/QaDeS/meteor-angularjs-leaflet",
+  "author": "Michael Klaus <michael.klaus@gmx.net>",
+  "version": "0.0.1",
+  "git": "https://github.com/QaDeS/meteor-angularjs-leaflet.git",
+  "packages": {
+    "ngMeteor": {}
+  }
+}
